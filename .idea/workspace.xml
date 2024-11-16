@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04df4333-af89-4caa-acb9-c6dd5f12b879" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lizzard-clicker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/FriendsView-BDX0n0On.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/TasksView-Bz2GRKeq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/coin-CAgD55vt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/frog-BCpuHO72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/index-BETSGeDc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/index-CJEnum7G.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScoreProgress.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScoreProgress.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/score.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/score.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nZhkw3wqGSvX0Zwwejuwznh53U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/WEB/учебные (курсы, интенсивы,  проекты по книгам)/vue3/lizzard-clicker&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04df4333-af89-4caa-acb9-c6dd5f12b879" name="Changes" comment="" />
+      <created>1729186652203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729186652203</updated>
+      <workItem from="1729186653678" duration="208000" />
+      <workItem from="1729186864953" duration="16388000" />
+      <workItem from="1731176058596" duration="591000" />
+      <workItem from="1731762707261" duration="2362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
